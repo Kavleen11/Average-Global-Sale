@@ -9,7 +9,8 @@ This Python script connects to a MySQL database, retrieves video game sales data
 
 **Prerequisites:**
 
-Python installed on your machine Required libraries: pandas, sqlalchemy, pymysql
+Python installed on  machine 
+Required libraries: pandas, sqlalchemy, pymysql
 
 **Installing:** 
 You can install the required libraries using pip: pip install pandas sqlalchemy pymysql
